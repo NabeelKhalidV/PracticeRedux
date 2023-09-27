@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890349542689",
+    "project_id": "practiceredux-3e740",
+    "storage_bucket": "practiceredux-3e740.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890349542689:android:a71b5d65b4f65d92643260",
+        "android_client_info": {
+          "package_name": "com.practiceredux"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGVGSc58yxrWNNmkUHp9WCdZ_PAasYyYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
